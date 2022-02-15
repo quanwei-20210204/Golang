@@ -1,6 +1,8 @@
 # Golang
 Jianqiang inspect and pair programming with me.
 
+
+
 currentSecond := time.Now().Second()
 
 /*  for every second, it will print*/
